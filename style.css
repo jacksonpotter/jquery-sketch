@@ -1,0 +1,19 @@
+.container {
+  width: 800px;
+  height: 800px;
+  border: 1px solid black;
+}
+
+.block {
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
