@@ -1,6 +1,6 @@
 .container {
-  width: 800px;
-  height: 800px;
+  width: 960px;
+  height: 960px;
   border: 1px solid black;
 }
 
@@ -10,10 +10,6 @@
   float: left;
 }
 
-.blue {
-  background-color: blue;
-}
-
-.red {
-  background-color: red;
+.on {
+  background-color: black;
 }
